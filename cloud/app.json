@@ -28,21 +28,39 @@
 					"image": "notes.jpg",
 					"files": [
 						{
-							"fname":""
+							"fname":"en1.png"
 						},
 						{
-							"fname":""
+							"fname":"en2.png"
 						}
 							
 					]
 				},
 				{
 					"name": "Question Paper",
-					"image": "question.jpg"
+					"image": "question.jpg",
+					"files": [
+						{
+							"fname":"eq1.png"
+						},
+						{
+							"fname":"eq2.jpg"
+						}
+							
+					]
 				},
 				{
 					"name": "Extra Stuff",
-					"image": "extra.jpg"
+					"image": "extra.jpg",
+					"files": [
+						{
+							"fname":"ee1.jpg"
+						},
+						{
+							"fname":"ee2.jpg"
+						}
+							
+					]
 				}
 			]
 		},
