@@ -1,0 +1,59 @@
+{
+	"url": "hardik4288.github.io",
+	"cat": [
+		{
+			"name": "Networking",
+			"image": "",
+			"sub": [
+				{
+					"name": "Notes",
+					"image": ""
+				},
+				{
+					"name": "Question Paper",
+					"image": ""
+				},
+				{
+					"name": "Extra Stuff",
+					"image": ""
+				}
+			]
+		},
+		{
+			"name": "Ebusiness",
+			"image": "",
+			"sub": [
+				{
+					"name": "Notes",
+					"image": ""
+				},
+				{
+					"name": "Question Paper",
+					"image": ""
+				},
+				{
+					"name": "Extra Stuff",
+					"image": ""
+				}
+			]
+		},
+		{
+			"name": "Operating System",
+			"image": "",
+			"sub": [
+				{
+					"name": "Notes",
+					"image": ""
+				},
+				{
+					"name": "Question Paper",
+					"image": ""
+				},
+				{
+					"name": "Extra Stuff",
+					"image": ""
+				}
+			]
+		}
+	]
+}
