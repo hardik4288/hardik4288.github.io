@@ -7,15 +7,39 @@
 			"sub": [
 				{
 					"name": "Notes",
-					"image": "notes.jpg"
+					"image": "notes.jpg",
+					"files": [
+						{
+							"fname": "osi_layers.png"
+						},
+						{
+							"fname": "osi_model.jpg"
+						}
+					]
 				},
 				{
 					"name": "Question Paper",
-					"image": "question.jpg"
+					"image": "question.jpg",
+					"files": [
+						{
+							"fname": "sample1.png"
+						}
+					]
 				},
 				{
 					"name": "Extra Stuff",
-					"image": "extra.jpg"
+					"image": "extra.jpg",
+					"files": [
+						{
+							"fname": "cat_5.jpeg"
+						},
+						{
+							"fname": "cat_6.jpeg"
+						},
+						{
+							"fname": "server.jpeg"
+						}
+					]
 				}
 			]
 		},
@@ -28,12 +52,23 @@
 					"image": "notes.jpg",
 					"files": [
 						{
-							"fname":"en1.png"
+							"fname": "ebusiness_benfit.png"
 						},
 						{
-							"fname":"en2.png"
+							"fname": "ebusiness_challenges.png"
+						},
+						{
+							"fname": "ebusiness_ecosystem.png"
+						},
+						{
+							"fname": "ecommerce.jpg"
+						},
+						{
+							"fname": "ecommerce_diff_traditional.jpg"
+						},
+						{
+							"fname": "service.png"
 						}
-							
 					]
 				},
 				{
@@ -41,12 +76,14 @@
 					"image": "question.jpg",
 					"files": [
 						{
-							"fname":"eq1.png"
+							"fname": "samole1.png"
 						},
 						{
-							"fname":"eq2.jpg"
+							"fname": "sample2.jpg"
+						},
+						{
+							"fname": "sample3.jpg"
 						}
-							
 					]
 				},
 				{
@@ -54,12 +91,8 @@
 					"image": "extra.jpg",
 					"files": [
 						{
-							"fname":"ee1.jpg"
-						},
-						{
-							"fname":"ee2.jpg"
+							"fname": "company_sucess.jpg"
 						}
-							
 					]
 				}
 			]
@@ -70,15 +103,48 @@
 			"sub": [
 				{
 					"name": "Notes",
-					"image": "notes.jpg"
+					"image": "notes.jpg",
+					"files": [
+						{
+							"fname": "operating_system.jpg"
+						},
+						{
+							"fname": ".operating_system_services.jpg"
+						},
+						{
+							"fname": "os_basic_model.jpg"
+						},
+						{
+							"fname": "os_defination.jpg"
+						},
+						{
+							"fname": "os_services.jpg"
+						}
+					]
 				},
 				{
 					"name": "Question Paper",
-					"image": "question.jpg"
+					"image": "question.jpg",
+					"files": [
+						{
+							"fname": "sample1.jpg"
+						},
+						{
+							"fname": "sample.png"
+						}
+					]
 				},
 				{
 					"name": "Extra Stuff",
-					"image": "extra.jpg"
+					"image": "extra.jpg",
+					"files": [
+						{
+							"fname": "operating_systems.jpg"
+						},
+						{
+							"fname": "different_operating_system.jpg"
+						}
+					]
 				}
 			]
 		}
