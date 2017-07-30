@@ -3,29 +3,29 @@
 	"cat": [
 		{
 			"name": "Networking",
-			"image": "",
+			"image": "networking.jpg",
 			"sub": [
 				{
 					"name": "Notes",
-					"image": ""
+					"image": "notes.jpg"
 				},
 				{
 					"name": "Question Paper",
-					"image": ""
+					"image": "question.jpg"
 				},
 				{
 					"name": "Extra Stuff",
-					"image": ""
+					"image": "extra.jpg"
 				}
 			]
 		},
 		{
 			"name": "Ebusiness",
-			"image": "",
+			"image": "ebusiness.jpg",
 			"sub": [
 				{
 					"name": "Notes",
-					"image": "",
+					"image": "notes.jpg",
 					"files": [
 						{
 							"fname":""
@@ -38,29 +38,29 @@
 				},
 				{
 					"name": "Question Paper",
-					"image": ""
+					"image": "question.jpg"
 				},
 				{
 					"name": "Extra Stuff",
-					"image": ""
+					"image": "extra.jpg"
 				}
 			]
 		},
 		{
 			"name": "Operating System",
-			"image": "",
+			"image": "operating.jpg",
 			"sub": [
 				{
 					"name": "Notes",
-					"image": ""
+					"image": "notes.jpg"
 				},
 				{
 					"name": "Question Paper",
-					"image": ""
+					"image": "question.jpg"
 				},
 				{
 					"name": "Extra Stuff",
-					"image": ""
+					"image": "extra.jpg"
 				}
 			]
 		}
