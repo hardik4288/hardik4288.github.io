@@ -139,10 +139,10 @@
 					"image": "extra.jpg",
 					"files": [
 						{
-							"fname": "operating_systems.jpg"
+							"fname": "different_operating_system.jpg"
 						},
 						{
-							"fname": "different_operating_system.jpg"
+							"fname": "operating_systems.jpg"
 						}
 					]
 				}
