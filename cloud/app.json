@@ -76,7 +76,7 @@
 					"image": "question.jpg",
 					"files": [
 						{
-							"fname": "samole1.png"
+							"fname": "sample1.png"
 						},
 						{
 							"fname": "sample2.jpg"
@@ -109,7 +109,7 @@
 							"fname": "operating_system.jpg"
 						},
 						{
-							"fname": ".operating_system_services.jpg"
+							"fname": "operating_system_services.jpg"
 						},
 						{
 							"fname": "os_basic_model.jpg"
@@ -130,7 +130,7 @@
 							"fname": "sample1.jpg"
 						},
 						{
-							"fname": "sample.png"
+							"fname": "sample2.png"
 						}
 					]
 				},
